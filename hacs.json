@@ -1,0 +1,7 @@
+{
+  "name": "Eufy C33 Door Lock",
+  "content_in_root": false,
+  "render_readme": true,
+  "domains": ["lock"],
+  "homeassistant": "2023.1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "eufy_c33",
+  "name": "Eufy C33 Door Lock",
+  "codeowners": ["@yourusername"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/yourusername/eufy-c33-hass",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/yourusername/eufy-c33-hass/issues",
+  "requirements": ["asyncio", "aiohttp"],
+  "ssdp": [],
+  "version": "1.0.0",
+  "zeroconf": []
+}
